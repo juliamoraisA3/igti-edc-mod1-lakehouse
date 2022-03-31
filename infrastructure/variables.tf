@@ -2,7 +2,7 @@ variable "base-bucket-name" {
   default = "lakehouse-igti"
 }
 
-variable "lamba_function_name" {
+variable "lambda_function_name" {
   default = "IGTIexecutaEMR"
 }
 
